@@ -1,4 +1,4 @@
-# 🧱 LEGO Data Analysis (SQL)
+# LEGO Data Analysis (SQL)
 
 ## 📌 Overview
 This project uses SQL to analyze LEGO data, focusing on LEGO sets, themes, parts, colors, and part reuse.  
